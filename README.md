@@ -1,4 +1,5 @@
-# Monthly Electricity Consumption Prediction Using Machine Learning with LLM-Assisted Data Integration
+# Provincial Electricity Consumption Forecasting in Turkey Using LLM-Based Feature Extraction and Machine Learning Approach
+
 
 ## Description
 This repository contains the source code and supporting materials for the study entitled  
