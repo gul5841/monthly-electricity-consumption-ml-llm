@@ -32,11 +32,15 @@ The `src/` directory contains scripts used for:
 
 The following models are implemented and evaluated:
 - Multiple Linear Regression (MLR)
-- Artificial Neural Networks (ANN)
-- Long Short-Term Memory networks (LSTM)
-- Random Forest
-- Gradient Boosting–based models
+- Generalized Linear Regression (GLR) 
+- Support Vector Regression (SVR) 
+- Kernel Ridge Regression (KRR) 
+- Random Forest (RF) 
 - CatBoost
+- Extreme Gradient Boosting (XGBoost)
+- Long Short-Term Memory networks (LSTM)
+- Artificial Neural Networks (ANN)
+
 
 Model performance is assessed using:
 - R²
